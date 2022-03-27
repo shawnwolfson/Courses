@@ -1,0 +1,24 @@
+printAllAboveSalary output: 
+John Williams
+Salary: 10000 Score: 25
+Lionel Smith
+Salary: 10000 Score: 10
+Mohamad Masarwa
+Salary: 20000
+
+printAllEmployeesWithSkill output
+John Williams
+Salary: 10000 Score: 25
+Alex Martinez
+Salary: 0 Score: 10
+Lionel Smith
+Salary: 10000 Score: 10
+printAllAboveSalary output: 
+
+printAllEmployeesWithSkill output
+John Williams
+Salary: 0 Score: 25
+Alex Martinez
+Salary: 0 Score: 10
+Lionel Smith
+Salary: 0 Score: 10
