@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simPackage>
+ <file path="clock_divider_sim/clock_divider.vo" type="VERILOG" />
+ <topLevel name="clock_divider" />
+ <deviceFamily name="cyclonev" />
+</simPackage>
